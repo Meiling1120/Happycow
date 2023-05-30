@@ -1,6 +1,6 @@
 ---
 title: "diamonds"
-author: 'Cue12'
+author: 'Meiling'
 date: "2022/6/8"
 output: html_document
 ---
